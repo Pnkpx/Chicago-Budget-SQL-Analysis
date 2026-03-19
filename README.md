@@ -102,10 +102,10 @@ Data for **2026 appears incomplete**, likely reflecting partial-year reporting.
 ## Visualizations
 
 ### Top Departments by Spending
-![Department Spending](Charts/Top Chicago Departments by Total Spending.png)
+![Department Spending](Top Chicago Departments by Total Spending.png)
 
 ### Top Vendors by Payments
-![Vendor Spending](Charts/Top Vendors Receiving Chicago Municipal Payments.png)
+![Vendor Spending](Top Vendors Receiving Chicago Municipal Payments.png)
 
 ### Spending by Year
-![Yearly Spending](Charts/Chicago Municipal Payments by Year.png)
+![Yearly Spending](Chicago Municipal Payments by Year.png)
